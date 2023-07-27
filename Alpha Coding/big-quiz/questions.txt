@@ -1,0 +1,17 @@
+
+correct_index = question[5]   # Explain this piece of code
+
+What happens when the user clicks?
+What happens when the user answers right?
+What happens when the user answers wrong?
+What is the index for? (Inside draw and on_mouse_down)
+
+What do you think this is doing? "clock.schedule_interval(update_time_left, 1.0)"
+
+
+Extra Things To Do:
+How would you change the colors - make it your own
+Add more questions
+Give hints using on_key_up function
+Skip questions using up arrow
+
